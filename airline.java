@@ -4,7 +4,7 @@ import java.util.Scanner;
 //creating class
 public class airline_reservation {
     //declaring static global variables
-    static int seats[] = new int[11];
+    static int seats[] = new int[10];
     static Scanner sc = new Scanner(System.in);
     
     //creating main
